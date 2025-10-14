@@ -12,7 +12,7 @@
 
 - 🎓 **MSc Advanced Software Engineering** graduate from **University of Leicester** (2024-2025)
 - 💼 **Teaching Assistant** at University of Leicester (Operating Systems, Mobile & Web Applications, Project Management)
-- 💻 **3+ years** of backend development experience.
+- 💻 **3 years** of backend development experience.
 - 🌱 Specialized in **Java, Spring Boot, RESTful APIs and back-end development**
 - 🚀 Passionate about building **scalable backend systems** and **clean architecture**
 - 📍 Based in Leicester, UK
