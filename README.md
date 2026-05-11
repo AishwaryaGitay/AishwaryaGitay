@@ -12,10 +12,8 @@
 
 - 🎓 **MSc Advanced Software Engineering** graduate from **University of Leicester** (2024-2025)
 - 💼 **Teaching Assistant** at University of Leicester (Operating Systems, Mobile & Web Applications, Project Management)
-- 💻 **3 years** of backend development experience.
 - 🌱 Specialized in **Java, Spring Boot, RESTful APIs and back-end development**
 - 🚀 Passionate about building **scalable backend systems** and **clean architecture**
-- 📍 Based in Leicester, UK
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +28,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,13 +44,6 @@
 
 
 
-## 💼 Professional Experience Highlights
-
--  **3 years** in backend development
--  Processed **20,000+ financial records** with automated schedulers
--  Improved system performance by **15%** through query optimization
--  Currently supporting and mentoring **100+ students** at University of Leicester
--  Developed Excel processing module handling **3,000+ vehicle records**
 
 ## 📊 GitHub Statistics
 
@@ -78,7 +69,6 @@
 ## 🎯 Currently
 
 - 👨‍🏫 Teaching Assistant at University of Leicester
-- 📚 Mastering System Design and Microservices Architecture
 - 🔍 Actively seeking **Backend Engineer** / **Full-Stack Java Developer** roles
 - 💡 Open to collaborating on interesting projects
 
